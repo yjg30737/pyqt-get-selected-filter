@@ -2,13 +2,13 @@
 Get selected filter string for QFileDialog
 
 ## Example
-Code Sample
 ```python
+### code start ###
 from pyqt_get_selected_filter import getSelectedFilter
 
 lst = ['.bmp', '.jpg', '.jpeg', '.gif', '.png']
 print(getSelectedFilter(lst))
-```
+### code end ###
 
-Result
-`(*.bmp *.jpg *.jpeg *.gif *.png)`
+>> (*.bmp *.jpg *.jpeg *.gif *.png) # result
+```
