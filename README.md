@@ -1,6 +1,9 @@
 # pyqt-get-selected-filter
 Get selected filter string for QFileDialog
 
+## Setup
+`python -m pip install pyqt-get-selected-filter`
+
 ## Example
 ```python
 ### code start ###
